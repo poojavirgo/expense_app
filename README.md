@@ -9,6 +9,9 @@ Looking for an expense and budget tool? Stop searching. Expense Manager is simpl
 
 This is a platform which is used to keep track of all your expenses monthly wise.
 
+<!-- APPLICATION UI -->
+![image](https://user-images.githubusercontent.com/21308982/138417472-f2a5aca9-f65d-4765-bb5c-4e8a59b8c02f.png)
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
